@@ -2,31 +2,25 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ignacio Martínez Fernández
     - name: Languages
-      value: English, German
+      value: Spanish, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: Universidad Carlos III de Madrid
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Análisis Electromagnético de Estructuras Finitas de Tipo Periódico mediante el Método de los Elementos Finitos
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - El principal objetivo de este trabajo es estudiar las técnicas de subestructuración disponibles para ser capaces de desarrollar un algoritmo de resolución que nos permita abordar problemas con periodicidades regulares, como las agrupaciones de antenas presentes en el SKA.
+    - title: Telecommunications Engineer
+      institution: Universidad Carlos III de Madrid
+      year: 2008
       description:
-        - Description 1.
-        - Description 2.
+        - includes skills and expertise in communications systems, networks, electronics and audiovisual systems
 
 - title: Experience
   type: time_table
@@ -64,7 +58,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: <a href="https://github.com/NachoMtnz"></a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
