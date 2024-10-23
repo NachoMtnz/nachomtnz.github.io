@@ -6,19 +6,19 @@
     "email": "",
     "phone": "",
     "url": "https://nachomtnz.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Remote",
+      "postalCode": "",
+      "city": "Getafe",
+      "countryCode": "ES",
+      "region": "Madrid"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "ignaciomtnez",
+        "url": "www.linkedin.com/in/ignaciomtnez"
       }
     ]
   },
@@ -47,24 +47,40 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universidad Carlos III de Madrid",
+      "location": "Leganés, Madrid",
+      "url": "https://www.uc3m.es/",
+      "area": "Compitutational Electromagnetics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2012",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Universidad Carlos III de Madrid",
+      "location": "Leganés, Madrid",
+      "url": "https://www.uc3m.es/",
+      "area": "Multimedia and Communications",
+      "studyType": "Master",
+      "startDate": "2012",
+      "endDate": "2020"
+    },{
+      "institution": "Universidad Carlos III de Madrid",
+      "location": "Leganés, Madrid",
+      "url": "https://www.uc3m.es/",
+      "area": "Telecommunication Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2002",
+      "endDate": "2009"
     }
+    
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "VI Concurso Ideas",
+      "date": "2013",
+      "awarder": "Universidad Carlos III de Madrid",
+      "url": "https://e-archivo.uc3m.es/bitstreams/afab14e8-7546-45a9-8ae5-47437d588506/download",
+      "summary": "Entregados los premios a los ganadores del 6º Concurso de Ideas para la creación de empresas innovadoras y de base tecnológica.\nEntrevista con todos los premiados del VI Concurso de ideas UC3M: 4D nature, Itraiding, ZeusEye, Luzwavelabs, Samsamia y ScientApps."
     }
   ],
   "certificates": [
