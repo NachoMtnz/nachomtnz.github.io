@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: A get to know me page.
 
 profile:
   align: right
   image: prof_pic.jpg
+  image_orientation: "landscape"
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Remote</p>
+    <p>Getafe</p>
     <p>Madrid</p>
     <p>Spain</p>
 
@@ -18,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Born in Madrid. I am a Senior HPC engineer that has build HPC systems and create algorithms that need one. Passionate about Science. I started to build clusters and HPC codes as part of my final career project. I have worked with many different languages (FORTRAN, C, C++, Python) and frameworks (MPI, OpenMP, CUDA). And different administration tools (PBS, SLURM, SGE) and OS (Linux, Windows, Solaris), and yes, I am that old.
+Born in Madrid. I am a Senior HPC engineer that has built HPC systems and created algorithms that need an HPC to run. Passionate about Science. I started to build clusters and HPC codes as part of my final career project. I have worked with many different languages (FORTRAN, C, C++, Python) and frameworks (MPI, OpenMP, CUDA). And different administration tools (PBS, SLURM, SGE) and OS (Linux, Windows, Solaris), and yes, I am that old.
 
 In the early stages of my career I was working as product owner on wireless HW (TV, phone, internet). Then I did some last mile analytics, then I was offered to do a PhD. I started that path and just few months after I had to jump back again to work this time as HPC engineer.
 
