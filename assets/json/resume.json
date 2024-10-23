@@ -22,6 +22,16 @@
   },
   "work": [
     {
+      "name": "Microsoft",
+      "position": "Senior Support Escalation Engineer",
+      "startDate": "2020-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "In this role I had the opportunity to architect a large variety of applications and infrastructure, from a Blockchain to IoT with drones, pasing through classic web applications. We design the platform for evolving the applications to microservices. Also, we develop the frameworks and the way of working with some coding languages.",
+      "url": "https://www.linkedin.com/company/airbus-defence-and-space/",
+      "location": "Madrid"
+    },
+    {
       "name": "Airbus Defence and Space",
       "position": "Solutions Architect",
       "startDate": "2018-11-30",
