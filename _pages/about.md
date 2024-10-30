@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Born in Madrid. I am a Senior HPC engineer that has built HPC systems and created algorithms that need an HPC to run. Passionate about Science. I started to build clusters and HPC codes as part of my final career project. I have worked with many different languages (FORTRAN, C, C++, Python) and frameworks (MPI, OpenMP, CUDA). And different administration tools (PBS, SLURM, SGE) and OS (Linux, Windows, Solaris), and yes, I am that old.
+Born in Madrid, I am a Senior HPC Engineer with a deep-rooted passion for science. My journey into the world of high-performance computing (HPC) began during my final career project, where I first built clusters and developed HPC codes. Over the years, I have gained expertise in numerous programming languages, including FORTRAN, C, C++, and Python, as well as frameworks such as MPI, OpenMP, and CUDA. My experience spans various administration tools (PBS, SLURM, SGE) and operating systems (Linux, Windows, Solaris). And yes, I am that old.
 
-In the early stages of my career I was working as product owner on wireless HW (TV, phone, internet). Then I did some last mile analytics, then I was offered to do a PhD. I started that path and just few months after I had to jump back again to work this time as HPC engineer.
+In the early stages of my career, I served as a product owner for wireless hardware (TV, phone, internet) and dabbled in last-mile analytics. I then embarked on a PhD journey, only to return to the workforce as an HPC engineer shortly after.
 
-I worked as much as I could around HPC, but sometimes I worked as SW Architect or Platform Architect, right now, I am working as a Senior HPC engineer at [Microsoft](https://azure.microsoft.com) in Madrid. And I finish my PhD in Computational Electromagnetics in 2020 at [Universidad Carlos III de Madrid](https://www.uc3m.es).
+Throughout my career, I have seamlessly transitioned between roles as an HPC engineer, software architect, and platform architect. Currently, I am proud to work as a Senior HPC Engineer at [Microsoft](https://azure.microsoft.com) in Madrid. I completed my PhD  in Computational Electromagnetics in 2020 at [Universidad Carlos III de Madrid](https://www.uc3m.es), while working.
